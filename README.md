@@ -24,6 +24,9 @@ Java-Basic-Projects/
 │   ├── TicTacToe.java
 │   └── README.md
 │
-├── GradeCalculator/
+└── GradeCalculator/
     ├── GradeCalculator.java
     └── README.md
+
+```
+
