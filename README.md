@@ -1,4 +1,4 @@
-# Java-Basic-Projects
+# Java-Starter-Projects
 This repository contains beginner-level Java console-based projects to practice core programming concepts.  
 Each project is in its own folder and includes:
 
@@ -10,7 +10,7 @@ Each project is in its own folder and includes:
 ## 📁 Folder Structure
 
 ```
-Java-Basic-Projects/
+Java-Starter-Projects/
 │
 ├── Calculator/
 │   ├── Calculator.java
