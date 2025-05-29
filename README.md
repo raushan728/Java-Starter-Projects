@@ -52,7 +52,7 @@ java FileName
 ```
 Make sure to exclude the .java extension while running.
 
-## 💡 Example
+### 💡 Example
 ```
 javac Calculator.java
 java Calculator
