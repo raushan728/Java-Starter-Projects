@@ -38,7 +38,7 @@ java Calculator
 ---
 
 ## 💡 Sample Output
-
+```
 === Simple Calculator ===
 
 Enter first number: 10
