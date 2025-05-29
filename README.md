@@ -1,1 +1,1 @@
-# Java-Starter-Projects
+# Java-Basic-Projects
