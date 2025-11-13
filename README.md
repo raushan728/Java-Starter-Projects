@@ -1,10 +1,13 @@
 # Java-Starter-Projects
-This repository contains beginner-level Java console-based projects to practice core programming concepts.  
-Each project is in its own folder and includes:
 
----
+This repository contains beginner-level Java console-based projects designed to practice core programming concepts. Each project is organized in its own folder and includes source code and documentation.
 
-## 📁 Folder Structure
+## Table of Contents
+
+- [Folder Structure](#folder-structure)
+- [How to Run](#how-to-run)
+
+## Folder Structure
 
 ```
 Java-Starter-Projects/
@@ -24,37 +27,45 @@ Java-Starter-Projects/
 └── GradeCalculator/
     ├── GradeCalculator.java
     └── README.md
-
 ```
 
----
+## How to Run
 
-# 🚀 How to Run
-Follow the steps below to compile and run this Java program:
+Follow the steps below to compile and run a Java program:
 
 ### 1. Open Terminal or Command Prompt
 
-Navigate to the folder where the `.java` file is located.
+Navigate to the folder containing the `.java` file.
 
 ```bash
 cd path/to/this/project
 ```
-### 2. Compile the Java file
-Use the javac command to compile the file. Example:
+
+### 2. Compile the Java File
+
+Use the `javac` command to compile the file. Example:
+
 ```
 javac FileName.java
 ```
-Replace FileName.java with the actual file name (e.g., Calculator.java).
-### 3. Run the program
-Once compiled, run the program using the java command:
+
+Replace `FileName.java` with the actual file name (e.g., `Calculator.java`).
+
+### 3. Run the Program
+
+Once compiled, run the program using the `java` command:
+
 ```
 java FileName
 ```
-Make sure to exclude the .java extension while running.
 
-### 💡 Example
+Ensure to exclude the `.java` extension when running.
+
+### Example
+
 ```
 javac Calculator.java
 java Calculator
 ```
-If everything is correct, the program will execute in your terminal.
+
+If the compilation and execution are successful, the program will run in the terminal.

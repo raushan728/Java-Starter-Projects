@@ -1,43 +1,39 @@
-# 🧮 Simple Calculator (Java Console App)
+# Simple Calculator (Java Console Application)
 
-This is a basic calculator application built using Java.  
-It runs in the console and allows users to perform arithmetic operations like addition, subtraction, multiplication, and division.
+This is a basic calculator application developed in Java. It operates in the console and enables users to perform fundamental arithmetic operations, including addition, subtraction, multiplication, and division.
 
----
+## Table of Contents
 
-## 🚀 Features
+- [Features](#features)
+- [Requirements](#requirements)
+- [How to Run](#how-to-run)
+- [Sample Output](#sample-output)
 
-- Supports `+`, `-`, `*`, `/` operations
-- Handles divide-by-zero errors
+## Features
+
+- Supports basic arithmetic operations: `+`, `-`, `*`, `/`
+- Handles division by zero errors
 - Validates operator input
-- Gracefully handles invalid number entries
-- Runs in a loop until user decides to exit
+- Manages invalid numeric entries gracefully
+- Continues execution in a loop until the user chooses to exit
 
----
+## Requirements
 
-## 🛠️ Requirements
+- Java Development Kit (JDK) 8 or later (tested on Java 23.0.1)
+- Any IDE (such as IntelliJ IDEA, Visual Studio Code) or terminal with Java support
 
-- Java Development Kit (JDK) 8 or later  
-  _(Tested on Java 23.0.1)_
-- Any IDE (like IntelliJ, VS Code) or terminal with Java support
-
-
----
-
-## ▶️ How to Run
+## How to Run
 
 1. Clone or download this repository.
 2. Open the `Calculator.java` file in your Java IDE or terminal.
-3. Compile and run the file using:
+3. Compile and run the file using the following commands:
 
 ```bash
 javac Calculator.java
 java Calculator
 ```
 
----
-
-## 💡 Sample Output
+## Sample Output
 
 ```
 === Simple Calculator ===
